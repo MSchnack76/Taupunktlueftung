@@ -22,6 +22,6 @@ versetzt werden.
 |Programm   |Verwendung                               |Dateiformat |
 |-----------|-----------------------------------------|------------|
 | [FreeCAD](https://www.freecad.org)    | CAD Konstruktionen | .FCStd |
-| [KiCAD] (https://www.kicad.org/)| Schaltpläne | .kicad_sch |
+| [KiCAD](https://www.kicad.org/)| Schaltpläne | .kicad_sch |
 | [Lochmaster 4](https://www.electronic-software-shop.com/support/kostenlose-datei-viewer/) | Platinen-Layout für Lochraster-Platinen |.lm4 |
 
