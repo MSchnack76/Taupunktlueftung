@@ -6,6 +6,6 @@ Realisierung einer Taupunkt gesteuerten Lüftung, die die Lüftung nur dann eins
 ## Verwendete Software
 |Programm   |Verwendung                               |
 |-----------|-----------------------------------------|
-|[FreeCAD][https://www.freecad.org]    | CAD Konstruktionen                      |
-|Lochmaster | Platinen-Layout für Lochraster-Platinen |
+|[FreeCAD](https://www.freecad.org)    | CAD Konstruktionen                      |
+|[Lochmaster](https://www.electronic-software-shop.com/support/kostenlose-datei-viewer/) | Platinen-Layout für Lochraster-Platinen |
 
