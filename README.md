@@ -1,5 +1,5 @@
 # Taupunktlueftung
-
+![ScreenShot](TaupunktLueftung.jpg)
 ## Überblick
 Realisierung einer Taupunkt gesteuerten Lüftung, die die Lüftung nur dann einschaltet, wenn die Taupunkt-Temperatur der Umgebungsluft (Abluftraum - bspw. außerhalb des Gebäudes) deutlich niedriger ist, als die Taupunkt-Temperatur des Raumes, der be- bzw. entlüftet werden soll.
 
@@ -31,6 +31,7 @@ Der Aufbau findet bewusst im aktuellen Stadium der Entwicklung mit THT-Bauteilen
 |-----------|-----------------------------------------|------------|
 | [FreeCAD](https://www.freecad.org)    | CAD Konstruktionen | .FCStd |
 | [KiCAD](https://www.kicad.org/)| Schaltpläne | .kicad_sch |
+| [KiCAD](https://www.kicad.org/)| PCB Layout | .kicad_pcb |
 
 ## PCB Hersteller
 Ich bin sehr zufrieden mit dem deutschen PCB-Hersteller AISLER Germany GmbH mit Sitz in Aachen.
