@@ -24,6 +24,7 @@ Ein Dreh-Encoder mit Tast-Funktion wird für die Menu-Steuerung eingesetzt. Das 
 versetzt werden.
 
 Die Leiterplatte ist für eine Stromaufnahme von 5A bei 230VAC ausgelegt und wird über eine entsprechende Sicherung 5x20mm, 5A mittelträge vor Überstrom geschützt. Der Kleinspannungsbereich auf der PCB ist zusätzlich über eine Sicherung 5x20mm, 500mA flink abgesichert.
+
 ![ScreenShot](Taupunkt-Lueftung_PCB.png)
 
 Der Aufbau findet bewusst im aktuellen Stadium der Entwicklung mit THT-Bauteilen (mit Ausnhame des I²C-Multiplexers, den es nur als SMD SO-14 Package gibt) statt.
