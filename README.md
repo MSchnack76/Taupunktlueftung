@@ -47,6 +47,7 @@ Die Leiterplatte sitzt auf Distanzbolzen des Gehäuses, das Display ist an der R
 | [FreeCAD](https://www.freecad.org)    | CAD Konstruktionen | .FCStd |
 | [KiCAD](https://www.kicad.org/)| Schaltpläne | .kicad_sch |
 | [KiCAD](https://www.kicad.org/)| PCB Layout | .kicad_pcb |
+| [KiCAD](https://www.kicad.org/)| Projekt | .kicad_pro |
 
 ### PCB Hersteller
 Ich bin sehr zufrieden mit dem deutschen PCB-Hersteller AISLER Germany GmbH mit Sitz in Aachen.
