@@ -1,5 +1,5 @@
 # Taupunktlüftung
-![ScreenShot](Taupunkt-Lueftung.png)
+
 
 ## Überblick
 Realisierung einer Taupunkt gesteuerten Lüftung, die die Lüftung nur dann einschaltet, wenn die Taupunkt-Temperatur der Umgebungsluft (Abluftraum - bspw. außerhalb des Gebäudes) deutlich niedriger ist, als die Taupunkt-Temperatur des Raumes, der be- bzw. entlüftet werden soll.
