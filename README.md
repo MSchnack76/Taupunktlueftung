@@ -4,9 +4,13 @@
 ## Überblick
 Realisierung einer Taupunkt gesteuerten Lüftung, die die Lüftung nur dann einschaltet, wenn die Taupunkt-Temperatur der Umgebungsluft (Abluftraum - bspw. außerhalb des Gebäudes) deutlich niedriger ist, als die Taupunkt-Temperatur des Raumes, der be- bzw. entlüftet werden soll.
 
-## Elektrotechnischer Hinweis
+## Elektrotechnischer Hinweis & DISCLAIMER
 Ich mache an dieser Stelle darauf aufmerksam, dass diese Steuerung an einer 230V/50Hz Netzspannung betrieben wird. Es sind die einschlägigen Vorschriften für das Arbeiten, Anschließen und Betreiben einer elektrischen Anlage an 230V/50Hz zu beachten! Personen, die weder Erfahrung noch die nötige Ausbildung in der Elektrotechnik besitzen rate ich daher ausdrücklich vom Nachbau ab.
 Dies ist ein Hobby-Projekt mit keinerlei Zualssung für den regelmäßigen Betrieb / Anschluss am 230V/50Hz Netz.
+
+Alle Daten und Dateien sind nach bestem Wissen und Gewissen erstellt, haben jedoch PROTOTYPEN-Status!
+Daher übernehme ich keinerlei Verantwortung für die Korrektheit der Daten und keinerlei Verantwortung für irgendwelche Schäden, die aus einem evt. Nachbau resultieren!
+Diese Dokumentation ist ein rein privates Versuchs-Objekt!
 
 ## Umsetzung
 ### Elektronik & Leiterplatte (PCB)
