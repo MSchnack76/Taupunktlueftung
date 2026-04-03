@@ -15,7 +15,15 @@ Die Messung der Temperaturen und relativen Luftfeuchten des Abluftraumes / zu be
 
 Eine Daten-Ausgabe findet auf einem LCD-Display (DOT-Matrix) mit 4 Zeilen zu je 20 Zeichen (4x20) statt, welches über I²C an den Microcontroller angebunden wird. Die Hintergrundbeleuchtung des Displays kann über einen Kipptaster aktiviert werden. Der gleiche Kipptaster löst in der anderen Richtung einen Reset des Mikrocontrollers aus.
 
-Ein Dreh-Encoder mit Tast-Funktion wird für die Menu-Steuerung eingesetzt. Das Menu und die Einstellungen werden über das LCD-Display angezeigt.
+Ein Dreh-Encoder mit Tast-Funktion wird für die Menu-Steuerung eingesetzt. Das Menu und die Einstellungen werden über das LCD-Display angezeigt. Folgende Parameter können über das Menu verändert und entsprechend gesetzt werden:
+a) Delta Taupunkt Schaltschwelle für das Einschalten des Lüfters (Minimales Delta zwischen Taupunkt innen und außen)
+   --> Vorgabewert 5°C
+b) Hystere Delta Taupunkt für das Abschalten des Lüfters
+   --> Vorgabewert 1°C
+c) Minimale Innenraum-Temperatur (unterhalb der Temperatur findet keine Lüftung statt)
+   --> Vorgabewert 3°C
+d) Minimale Außen-Temperatur (unterhalb der Temperatur findet keine Lüftung statt)
+   --> Vorgabewert -10°C
 
 Über einen Kipp-Schalter kann die Steuerung in den
 1. dauerhaft EIN-Modus (Lüfter läuft ständig)
@@ -29,16 +37,16 @@ Die Leiterplatte ist für eine Stromaufnahme von 5A bei 230VAC ausgelegt und wir
 
 Der Aufbau findet bewusst im aktuellen Stadium der Entwicklung mit THT-Bauteilen (mit Ausnhame des I²C-Multiplexers, den es nur als SMD SO-14 Package gibt) statt.
 
-## Gehäuse
+### Gehäuse
 Das Gehäuse wurde über eine CAD-Software konstruiert und mittels 3D-Druck erstellt. Alle Komponenten wurden im 3D-Modell eingefügt.
 Die Leiterplatte sitzt auf Distanzbolzen des Gehäuses, das Display ist an der Rückseite des Deckels befestigt. Die Konnektivität der Sensoren ist über D-SUB Buchsen / Stecker realisiert.
 
-## Verwendete Software
+### Verwendete Software
 |Programm   |Verwendung                               |Dateiformat |
 |-----------|-----------------------------------------|------------|
 | [FreeCAD](https://www.freecad.org)    | CAD Konstruktionen | .FCStd |
 | [KiCAD](https://www.kicad.org/)| Schaltpläne | .kicad_sch |
 | [KiCAD](https://www.kicad.org/)| PCB Layout | .kicad_pcb |
 
-## PCB Hersteller
+### PCB Hersteller
 Ich bin sehr zufrieden mit dem deutschen PCB-Hersteller AISLER Germany GmbH mit Sitz in Aachen.
