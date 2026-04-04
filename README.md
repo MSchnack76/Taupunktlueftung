@@ -49,11 +49,12 @@ Die Leiterplatte sitzt auf Distanzbolzen des Gehäuses, das Display ist an der R
 |Programm   |Verwendung                               |Dateiformat |
 |-----------|-----------------------------------------|------------|
 | [FreeCAD](https://www.freecad.org)    | CAD Konstruktionen | .FCStd |
+| 3D-Druck | Standard Tessellation Language | .stl |
 | [KiCAD](https://www.kicad.org/)| Schaltpläne | .kicad_sch |
 | [KiCAD](https://www.kicad.org/)| PCB Layout | .kicad_pcb |
 | [KiCAD](https://www.kicad.org/)| Projekt | .kicad_pro |
 | [VisualStudioCode](https://code.visualstudio.com/)| Programmcode | .h und .cpp |
-| [PlatformIO](https://platformio.org/)| Programmcode |  |
+| [PlatformIO](https://platformio.org/)| Programmcode | .h und .cpp |
 | [LibreOffice](https://www.libreoffice.org/)| Stückliste | .ods |
 
 ### PCB Hersteller
