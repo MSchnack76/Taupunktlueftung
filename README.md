@@ -1,5 +1,5 @@
-[!Warning]
-Repository umgezogen auf die Codeberg-Platform! Neue Versionen unter [Taupunktlueftung bei Coderberg](https://codeberg.org/MSchnack76/Taupunktlueftung.git)
+> [!WARNING] 
+> Repository umgezogen auf die Codeberg-Plattform! Neue Versionen unter [Taupunktlueftung bei Coderberg](https://codeberg.org/MSchnack76/Taupunktlueftung.git)
 
 # Taupunktlüftung
 ![ScreenShot](Taupunkt-Lueftung_CAD.png)
